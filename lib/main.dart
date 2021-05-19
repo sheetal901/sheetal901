@@ -64,7 +64,7 @@ class _State extends State<MyApp> {
                     decoration: InputDecoration(
                       border: OutlineInputBorder(),
                    labelText: 'Enter Amount',
-                      hintText: 'Enter Amount',
+                      hintText: 'Enter Amount less than 500',
 
                       suffixIcon: IconButton(
                           icon: Icon(
