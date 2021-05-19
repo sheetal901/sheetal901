@@ -21,16 +21,7 @@ class _State extends State<MyApp> {
 
     return Scaffold(
 
-        appBar: AppBar(
-          title: Text("Add Money"),
-  backgroundColor: Colors.black,
-
-
-          centerTitle: true,
-
-          automaticallyImplyLeading: false,
-
-        ),
+        
 
         body: Padding(
 
